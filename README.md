@@ -1,4 +1,4 @@
-# Resume-Classifier-Sytem
+# Resume-Classifier-System
 A Python-based application that automatically classifies resumes into categories such as **Engineering**, **Finance**, **Marketing**, etc., using Natural Language Processing (NLP) and machine learning techniques.
 
 
