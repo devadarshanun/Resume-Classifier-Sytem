@@ -12,7 +12,7 @@ The dataset typically includes:
 - A labeled CSV file, e.g. `resume_data.csv`, that contains extracted text and its associated category.
 
 Example row from `resume_data.csv`:
-```csv
+csv
 text,category
 "Experienced Java developer with Spring Boot experience...",Engineering
 "Managed marketing campaigns for international brands...",Marketing
