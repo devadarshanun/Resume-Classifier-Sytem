@@ -28,8 +28,8 @@ joblib==1.4.0
 tk  # built-in with Python on most platforms, included here for clarity
 
 # Resume Classifier Requirements
-# Install with: pip install -r requirements.txt
+Install with: pip install -r requirements.txt
 
-# Make sure to run the following after installing:
-# python -m nltk.downloader stopwords
-# python -m spacy download en_core_web_sm
+Make sure to run the following after installing:
+python -m nltk.downloader stopwords
+python -m spacy download en_core_web_sm
